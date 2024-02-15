@@ -16,6 +16,6 @@ Throughout the SoftUni journey I also acquired some basic Back-End skills using 
 
 [![Back-End Skills:](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
-Other skills: Firebase, GitHub, Jira, Figma, Threejs (in progress)
+Other skills: Angular, Firebase, GitHub, Jira, Figma, Threejs (in progress)
 
-[![Other Skills:](https://skillicons.dev/icons?i=firebase,github,figma)](https://skillicons.dev)
+[![Other Skills:](https://skillicons.dev/icons?i=angular,firebase,github,figma)](https://skillicons.dev)
